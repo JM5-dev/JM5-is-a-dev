@@ -1,0 +1,138 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = JM5 is a dev
+Jacopo Margini
+Software Developer
+
+Show Contacts
+
+Email
+marginijacopo@gmail.com
+
+Phone
++39 388 577 6821
+
+Birthday
+21 December 2009
+
+Location
+Canossa, Reggio Emilia, Emilia Romagna, Italy
+
+# navbar
+
+About
+Projects
+Education
+Experience
+Contact
+
+# about
+
+About me
+
+I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+
+
+## service
+
+What programming languages ​​do I know?
+
+alt = C++ icon
+C++
+C++ is a programming language used to create almost any type of program: games, device drivers, HPC, cloud, desktop, embedded and mobile apps and much more.
+
+alt = Python icon
+Python
+Python is a high-level programming language used for developing distributed applications, scripting, numerical computation, and system testing.
+
+alt = HTML icon
+HTML
+HTML is the standard markup language used to create and structure the content of web pages.
+
+alt = CSS icon
+CSS
+CSS is a language that allows you to define the presentation (visual appearance) of HTML, XHTML and XML documents.
+
+alt = JavaScript icon
+JavaScript
+JavaScript is a scripting language used primarily for web development, but also for creating server-side and desktop applications.
+
+
+My skills
+
+C++
+90%
+Python
+60%
+HTML
+80%
+CSS
+70%
+JavaScript
+60%
+Arduino
+80%
+Prompting
+100%
+
+
+
+# education
+
+Education
+
+Silvio D'Arzo High School
+2023 — present
+In this school there are many addresses, among these I chose ITI computer science because I have always been interested in the world of computer science. In this school I study the main programming languages ​​to develop apps, games, websites.
+
+Gregorio VII Middle School
+2020 — 2023
+In this school you study general subjects until you get to the third year I had to make the choice of what I wanted to do in the future which then led me to choose computer science.
+
+
+
+# projects
+
+Projects
+
+alt = robotic arm
+robotic arm
+Arduino, C++, Python
+
+alt = security camera
+security camera
+Arduino, C++, Python
+
+
+
+# experience
+
+Experience
+
+School project: robot arm
+2024 — 2025
+Project initiated by the TTRG professor, which included three different classes of directors with different tasks: computer technician (software part), mechatronics (hardware part) and graphic (video and photo editing)
+
+
+
+# contact
+
+Contact
+
+contact me
+
+Email
+marginijacopo@gmail.com
+
+Phone
++39 388 577 6821
+
+Instagram
+@jacopo_margini_09
+
+TikTok
+@jacopomargini
